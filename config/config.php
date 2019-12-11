@@ -12,8 +12,8 @@ require_once BASE_PATH . '/data/helpers.php';
 
 
 define('DB_HOST', "localhost");
-define('DB_USER', "user");
-define('DB_PASSWORD', "root");
+define('DB_USER', " ");
+define('DB_PASSWORD', " ");
 define('DB_NAME', "banner_system");
 
 /**
